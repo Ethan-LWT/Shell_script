@@ -3,7 +3,6 @@ This is a Shell script for making our workflow become more earier.
 
 ## What is the function actually do.
 `git_create` Adding a project to Github using the command line.
-
 `git_remove` Delete a Github project using the command line.
 
 > How to USE it.
