@@ -13,5 +13,5 @@ This is a Shell script for making our workflow become more earier.
 
 # To-do
 - ~~[Add the autoinstall function to install the cowsay if the system does not have the cowsay package.]~~ DONE
-- [Use ssh or gpg keychain to login the github account.]
+- ~~[Use personal access tokens to login the github account.]~~ DONE
 - [Make the shell script more lighter.]
