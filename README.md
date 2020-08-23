@@ -7,9 +7,7 @@ This is a Shell script for making our workflow become more earier.
 `git_remove` Delete a Github project using the command line.
 
 > How to USE it.
-1. Copy the `code` from aliasrc file, then paste the `code` to your bashrc or zshrc file.
-2. `source` your bashrc or zshrc file.
-3. Enjoy it.
+Copy `git_create` and `git_remove` files, paste them to `/usr/local/bin/` folder.
 
 # To-do
 - ~~[Add the autoinstall function to install the cowsay if the system does not have the cowsay package.]~~ DONE
