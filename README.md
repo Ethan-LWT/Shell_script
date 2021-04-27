@@ -2,9 +2,9 @@
 These Alias can make our workflow to become more earier.
 
 ## What is the function actually do.
-`git_create` Adding a project to Github using the command line.
+`git_create` Adding a project to Github by using the command line.
 
-`git_remove` Delete a Github project using the command line.
+`git_remove` Delete a Github project by using the command line.
 
 > How to USE it.
 
