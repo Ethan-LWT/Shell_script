@@ -13,4 +13,4 @@ Copy `git_create` and `git_remove` code, paste them to `.zshrc` or `.bashrc` fil
 # To-do
 - ~~[Add the autoinstall function to install the cowsay if the system does not have the cowsay package.]~~ DONE
 - ~~[Use personal access tokens to login the github account.]~~ DONE
-- [Make the shell script more lighter.]
+- ~~[Make the shell script more lighter.]~~ DONE
